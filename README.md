@@ -95,7 +95,7 @@ An interactive dashboard was built to visualize key HR insights.
 ## 🖥️ Power BI Dashboard
 
 ```
-<img width="1344" height="756" alt="Screenshot 2026-03-06 141034" src="https://github.com/user-attachments/assets/00467c16-45ab-4848-9123-91790134ffc1" />
+![Power BI Dashboard](dashboard.png)
 
 ```
 
