@@ -96,7 +96,7 @@ An interactive dashboard was built to visualize key HR insights.
 
 ```
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="dashboard.png" width="900">
 </p>
 
 ```
