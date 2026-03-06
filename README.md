@@ -94,12 +94,9 @@ An interactive dashboard was built to visualize key HR insights.
 
 ## 🖥️ Power BI Dashboard
 
-```
 <p align="center">
-  <img src="dashboard.png" width="900">
+  <img src="dashboard.png" alt="HR Attrition Analytics Dashboard" width="900">
 </p>
-
-```
 
 ---
 
