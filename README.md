@@ -119,10 +119,10 @@ An interactive dashboard was built to visualize key HR insights.
 HR-Attrition-Analytics
 │
 ├── data
-│   HR_Analytics.csv
+│   raw _HR_Analytics.xlsx
 │
 ├── excel
-│   HR_Cleaned.xlsx
+│   HR_Analytics.csv
 │
 ├── sql
 │   hr_analytics_queries.sql
