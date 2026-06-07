@@ -1,6 +1,6 @@
-# HR-Attrition-Analytics-Excel-SQL-Python-Power-BI
+# HWorkforce-Retention-Risk-Analysis
 
-# 📊 HR Attrition Analytics
+# 📊 Workforce Retention Risk Analysis
 
 ## 📌 Project Overview
 
