@@ -1,6 +1,6 @@
-# Workforce-Retention-Risk-Analysis
+# HR-Attrition-Analytics 
 
-# 📊 Workforce Retention Risk Analysis
+# 📊 HR Attrition Analytics 
 
 ## 📌 Project Overview
 
